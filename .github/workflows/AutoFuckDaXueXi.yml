@@ -24,11 +24,12 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: 'Auto Fuck DaXueXi'
+    - name: 'Fuck DaXueXi'
       env:
-        Level1: ${{ secrets.Level1 }}
-        Level2: ${{ secrets.Level2 }}
-        Level3: ${{ secrets.Level3 }}
-        Level4: ${{ secrets.Level4 }}
+        Level1options: ${{ secrets.L1 }}
+        Level2options: ${{ secrets.L2 }}
+        Level3options: ${{ secrets.L3 }}
+        Level4options: ${{ secrets.L4 }}
+        name: ${{ secrets.NAME }}
       run: |
         python AutoFuckDaXueXi.py >> output.txt && cat output.txt  

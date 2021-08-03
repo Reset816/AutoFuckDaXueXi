@@ -1,2 +1,6 @@
 # AutoFuckDaxuexi
-使用 Github Action 自动完成每周青年大学习
+LZU 测试成功
+## TO-DO
+- Github Action 支持
+- 结果推送
+- 文档

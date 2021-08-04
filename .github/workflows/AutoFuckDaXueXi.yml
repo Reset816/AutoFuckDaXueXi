@@ -10,6 +10,11 @@ on:
     branches: [ main ]
   schedule:
   - cron:  '0 12 * * 3'
+  workflow_dispatch:  # Allow manual triggering
+    Scheduled:
+      inputs:
+        description: 'Scheduled Time'  # TO-DO
+        required: false
 
 jobs:
   submit:

@@ -1,11 +1,13 @@
 # Auto Fuck DaXueXi
 暂时只适用于甘肃地区。
+
 每周三中午12点自动运行。
+
 测试成功。
 
 ## 使用
 
-### Github Action
+### Github Actions
 
 1. Fork 本仓库
 

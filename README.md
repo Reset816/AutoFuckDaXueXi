@@ -5,6 +5,13 @@
 
 测试成功。
 
+## TO-DO
+- 其他地区适配
+- 结果推送
+- 文档
+- 生成已学习图片
+- 上架 Github Marketplace
+
 ## 使用
 
 ### Github Actions
@@ -33,8 +40,3 @@
    <img src="images/image-20210803233602592.png" alt="image-20210803233602592" style="zoom:25%;" />
    
    <img src="images/image-20210803233457949.png" alt="image-20210803233457949" style="zoom:25%;" />
-
-## TO-DO
-- 结果推送
-- 文档
-- 生成图片

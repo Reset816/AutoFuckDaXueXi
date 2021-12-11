@@ -1,4 +1,7 @@
 # Auto Fuck DaXueXi
+
+**由于违反 Github terms of service，该仓库即日起停止更新。**
+
 暂时只适用于甘肃地区。
 
 每周三中午12点自动运行。
